@@ -2,7 +2,7 @@
 +🔭 Currently working on Network Monitoring Systems with React/TypeScript<br>+ 🌱 Learning Web3.js and Micro-frontend architectures<br>+ 👯 Looking to collaborate on open-source projects<br>+ 💬 Ask me about frontend optimization tricks<br>+ ⚡ Fun fact: Reduced API latency by 40% with WebSocket magic
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-sonker-1a5234259/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilsonker51115@gmail.com) 
 
 # 💻 Tech Stack:
