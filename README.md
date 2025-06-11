@@ -1,81 +1,68 @@
-# 🚀 About Me
+# 💫 About Me:
+✨ **Innovative Frontend Developer & Performance Optimizer** ✨  
+🚀 Transforming ideas into seamless digital experiences with cutting-edge web technologies  
 
-👋 Hi, I'm **Sahil Sonker**, a passionate **Frontend Developer** currently building scalable **Network Monitoring Systems** using **React** and **TypeScript**.
+### 🔭 Current Focus
+- Building next-gen **Network Monitoring Systems** with React/TypeScript
+- Architecting **real-time dashboards** with WebSocket integrations
+- Implementing **micro-frontend** architectures for scalable applications
 
-- 🔭 Working on real-time dashboards & performance optimization  
-- 🌱 Exploring **Web3.js** & **Micro-Frontend Architectures**  
-- 💬 Ask me about performance tricks, React patterns & API integrations  
-- 👯 Open to collaborating on innovative **open-source** & **startup-scale** projects  
-- ⚡ Fun fact: Slashed API latency by 40% using WebSocket magic
+### 🌱 Learning Journey
+- Mastering **Web3.js** for decentralized applications
+- Exploring **WebAssembly** for performance-critical components
+- Deep diving into **Edge Computing** for low-latency solutions
 
----
+### 🛠️ Technical Superpowers
+- **40% API latency reduction** through WebSocket optimizations
+- **Bundle size reduction** expert (60%+ savings)
+- **Cross-platform development** with React Native & Flutter
 
-## 🌐 Connect with Me
+### 🤝 Collaboration Interests
+- Open-source contributions to developer tools
+- Performance benchmarking projects
+- Innovative UI/UX experiments
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-sonker-1a5234259)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahilsonker51115@gmail.com)
+## 🌐 Professional Network
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sonker-1a5234259/)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsonker51115@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://yourportfolio.com)
 
----
+# 💻 Tech Stack
+### 🎨 Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-## 💻 Tech Stack
+### ⚙️ Backend Expertise
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio)
 
-### 🧠 Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### 🗃️ Data & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 🧩 Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🛠️ Tools & Utilities
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-### 🌐 Backend & APIs
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=sahil00016&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sahil00016&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil00016&theme=radical&hide_border=true&layout=compact)
 
-### 🧠 AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil00016&theme=radical&show_icons=true&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil00016&layout=compact&theme=radical&hide_border=false" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahil00016&theme=radical&hide_border=false" height="180"/>
-</p>
-
----
-
-## ✍️ Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 📌 Most Active Repo
+### ✨ Featured Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=sahil00016&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
+### 💡 Developer Wisdom
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <sub>📍 Visitor Count</sub><br/>
-  <img src="https://visitcount.itsvg.in/api?id=sahil00016&icon=0&color=0" />
-</div>
+---
+[![Visits](https://komarev.com/ghpvc/?username=sahil00016&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/sahil00016)
