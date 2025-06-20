@@ -1,5 +1,5 @@
 # 💫 About Me:
-+🔭 Currently working on Network Monitoring Systems with React/TypeScript<br>+ 🌱 Learning Web3.js and Micro-frontend architectures<br>+ 👯 Looking to collaborate on open-source projects<br>+ 💬 Ask me about frontend optimization tricks<br>+ ⚡ Fun fact: Reduced API latency by 40% with WebSocket magic
+🌱 Learning Web3.js and Micro-frontend architectures<br>+ 👯 Looking to collaborate on open-source projects<br>+ 💬 Ask me about frontend optimization tricks<br>+ ⚡ Fun fact: Reduced API latency by 40% with WebSocket magic
 
 
 ## 🌐 Socials
