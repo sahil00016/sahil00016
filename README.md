@@ -50,9 +50,15 @@ Backend engineer at a fintech NBFC. I design and ship production systems across 
 
 ---
 
-**GitHub Stats**
+**Currently**
 
-![](https://github-readme-stats.vercel.app/api?username=sahil00016&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+Building out the field-config system in the co-lending portal — a dynamic form engine where each field carries its own visibility conditions, validation rules, and edit permissions, driven by config rather than hardcoded UI logic. The goal is ops teams being able to reconfigure what loan data surfaces for a partner without a code deploy.
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahil00016&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF)
+
+> *Enable "Include private contributions" in your GitHub settings → Privacy to populate the graph*
 
 ---
 
