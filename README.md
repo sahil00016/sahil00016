@@ -52,6 +52,18 @@ Gmail → HMAC-signed Apps Script → API Gateway → Lambda (FastAPI + Mangum) 
 
 ---
 
+### GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sahil00016&theme=github_dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&show=prs_merged,prs_merged_percentage" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil00016&theme=github_dark&hide_border=true&layout=compact&count_private=true&langs_count=8" />
+</div>
+
+<div align="center"><sub>Enable <b>Settings → Privacy → Include private contributions</b> to populate with full activity</sub></div>
+
+---
+
 ### Engineering focus
 
 - **System design first** — think in service boundaries, contracts, and failure modes before writing code
