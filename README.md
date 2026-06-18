@@ -13,24 +13,30 @@
 
 <br/>
 
-```python
-class SahilSonker:
-    role        = "SDE I  ·  Optimo Capital"
-    type        = "Full-Stack Engineer  ·  Systems Thinker"
-
-    languages   = ["Python", "Go", "TypeScript", "Dart"]
-    frameworks  = ["Django", "FastAPI", "React 19", "Flutter"]
-    infra       = ["PostgreSQL", "Redis", "Docker", "AWS Lambda", "RabbitMQ"]
-
-    ships       = [
-        "Borrower-facing mobile lending platform  (Django + Flutter)",
-        "Co-lending ops portal with partner routing  (Django + React 19)",
-        "Event-driven LLM email intelligence pipeline  (FastAPI + AWS Bedrock)",
-    ]
-
-    interests   = ["System design", "Event-driven architecture", "LLMs in production"]
-    currently   = "Building a config-driven dynamic field engine for co-lending ops"
-    ask_me_about = "How three production systems talk to each other"
+```bash
+┌──(sahil㉿optimo-capital)-[~/production]
+│
+├─$ whoami
+│     Sahil Sonker  ·  SDE I @ Optimo Capital
+│     Full-Stack Engineer  ·  Systems Thinker
+│
+├─$ cat stack.json
+│     {
+│       "languages"  : ["Python", "Go", "TypeScript", "Dart"],
+│       "frameworks" : ["Django", "FastAPI", "React 19", "Flutter"],
+│       "infra"      : ["PostgreSQL", "Redis", "Docker", "AWS Lambda", "RabbitMQ"]
+│     }
+│
+├─$ cat ships.txt
+│     →  Borrower-facing mobile lending platform      Django · Flutter
+│     →  Co-lending ops portal with partner routing   Django · React 19
+│     →  LLM email intelligence pipeline              FastAPI · AWS Bedrock
+│
+├─$ echo $INTERESTS
+│     System design  ·  Event-driven architecture  ·  LLMs in production
+│
+└─$ echo $ASK_ME_ABOUT
+      How three production systems talk to each other
 ```
 
 <div align="center">
