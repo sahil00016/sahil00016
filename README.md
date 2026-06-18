@@ -56,9 +56,39 @@ Building out the field-config system in the co-lending portal — a dynamic form
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahil00016&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF)
+**System architecture**
 
-> *Enable "Include private contributions" in your GitHub settings → Privacy to populate the graph*
+The three systems I work on are interconnected — the email pipeline feeds structured events directly into the co-lending gateway.
+
+```mermaid
+flowchart TD
+    subgraph Borrower["Borrower Platform"]
+        direction LR
+        FLUTTER[Flutter App] --> DJANGO_A[Django REST API]
+        DJANGO_A --> PG_A[(PostgreSQL)]
+        DJANGO_A --> CELERY[Celery · RabbitMQ]
+        DJANGO_A --> VALKEY[(Valkey)]
+    end
+
+    subgraph CoLending["Co-lending Gateway"]
+        direction LR
+        REACT[React 19 Portal] --> DJANGO_B[Django API]
+        DJANGO_B --> PG_B[(PostgreSQL)]
+        DJANGO_B --> SYNORIQ[(Synoriq DB\nread-only)]
+        DJANGO_B --> PARTNERS[BHN · GFL]
+    end
+
+    subgraph EmailPipeline["Email Intelligence Pipeline"]
+        direction LR
+        GMAIL[Gmail] --> SCRIPT[Apps Script\nHMAC sign]
+        SCRIPT --> APIGW[API Gateway]
+        APIGW --> LAMBDA[Lambda · FastAPI]
+        LAMBDA --> BEDROCK[AWS Bedrock\nLLM extraction]
+        LAMBDA --> DLQ[DLQ · SNS → S3]
+    end
+
+    BEDROCK -->|structured events| DJANGO_B
+```
 
 ---
 
