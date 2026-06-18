@@ -10,8 +10,8 @@ Full-stack engineer at a fintech NBFC. I own features from database schema to UI
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sonker-1a5234259/)
-[![Email](https://img.shields.io/badge/sahil.s%40optimoloan.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahil.s@optimoloan.com)
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sonker-1a5234259/)
+[![Gmail](https://img.shields.io/badge/sahilsonker2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsonker2025@gmail.com)
 
 </div>
 
