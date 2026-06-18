@@ -13,50 +13,9 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                  >>  DEVELOPER PROFILE  <<                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   NAME      :  Sahil Sonker                                  ║
-║   CLASS     :  Full-Stack Engineer  |  Systems Thinker       ║
-║   GUILD     :  Optimo Capital                                ║
-║   RANK      :  SDE I                                         ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   ABILITIES                                                  ║
-║                                                              ║
-║   Python        ██████████████████░░   90 / 100             ║
-║   Django        █████████████████░░░   85 / 100             ║
-║   FastAPI       ████████████████░░░░   80 / 100             ║
-║   TypeScript    ███████████████░░░░░   75 / 100             ║
-║   React         ███████████████░░░░░   75 / 100             ║
-║   Go            █████████████░░░░░░░   65 / 100             ║
-║   Flutter       █████████████░░░░░░░   65 / 100             ║
-║   Sys Design    ████████████████░░░░   80 / 100  < RARE >   ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   COMPLETED QUESTS                                           ║
-║                                                              ║
-║   [DONE]  The Borrower's Path                                ║
-║           Mobile lending platform         Django + Flutter   ║
-║                                                              ║
-║   [DONE]  The Co-lending Gateway                             ║
-║           Ops portal + partner routing    Django + React 19  ║
-║                                                              ║
-║   [DONE]  The Email Oracle                                   ║
-║           LLM email intelligence pipeline FastAPI + Bedrock  ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   [ >> ]  CURRENT QUEST                                      ║
-║           Config-driven dynamic field engine                 ║
-║           for the co-lending ops portal          IN PROGRESS ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sahil00016/sahil00016/main/profile-card.svg" alt="Developer Profile Card" width="680"/>
+</div>
 
 <div align="center">
 
