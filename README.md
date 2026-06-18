@@ -13,30 +13,49 @@
 
 <br/>
 
-```bash
-┌──(sahil㉿optimo-capital)-[~/production]
-│
-├─$ whoami
-│     Sahil Sonker  ·  SDE I @ Optimo Capital
-│     Full-Stack Engineer  ·  Systems Thinker
-│
-├─$ cat stack.json
-│     {
-│       "languages"  : ["Python", "Go", "TypeScript", "Dart"],
-│       "frameworks" : ["Django", "FastAPI", "React 19", "Flutter"],
-│       "infra"      : ["PostgreSQL", "Redis", "Docker", "AWS Lambda", "RabbitMQ"]
-│     }
-│
-├─$ cat ships.txt
-│     →  Borrower-facing mobile lending platform      Django · Flutter
-│     →  Co-lending ops portal with partner routing   Django · React 19
-│     →  LLM email intelligence pipeline              FastAPI · AWS Bedrock
-│
-├─$ echo $INTERESTS
-│     System design  ·  Event-driven architecture  ·  LLMs in production
-│
-└─$ echo $ASK_ME_ABOUT
-      How three production systems talk to each other
+```
+╔══════════════════════════════════════════════════════════════╗
+║                  >>  DEVELOPER PROFILE  <<                   ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   NAME      :  Sahil Sonker                                  ║
+║   CLASS     :  Full-Stack Engineer  |  Systems Thinker       ║
+║   GUILD     :  Optimo Capital                                ║
+║   RANK      :  SDE I                                         ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   ABILITIES                                                  ║
+║                                                              ║
+║   Python        ██████████████████░░   90 / 100             ║
+║   Django        █████████████████░░░   85 / 100             ║
+║   FastAPI       ████████████████░░░░   80 / 100             ║
+║   TypeScript    ███████████████░░░░░   75 / 100             ║
+║   React         ███████████████░░░░░   75 / 100             ║
+║   Go            █████████████░░░░░░░   65 / 100             ║
+║   Flutter       █████████████░░░░░░░   65 / 100             ║
+║   Sys Design    ████████████████░░░░   80 / 100  < RARE >   ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   COMPLETED QUESTS                                           ║
+║                                                              ║
+║   [DONE]  The Borrower's Path                                ║
+║           Mobile lending platform         Django + Flutter   ║
+║                                                              ║
+║   [DONE]  The Co-lending Gateway                             ║
+║           Ops portal + partner routing    Django + React 19  ║
+║                                                              ║
+║   [DONE]  The Email Oracle                                   ║
+║           LLM email intelligence pipeline FastAPI + Bedrock  ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   [ >> ]  CURRENT QUEST                                      ║
+║           Config-driven dynamic field engine                 ║
+║           for the co-lending ops portal          IN PROGRESS ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -44,19 +63,6 @@
 </div>
 
 <br/>
-
----
-
-### What I ship
-
-**Optimo App** &nbsp;·&nbsp; *Borrower-facing mobile lending platform*  
-Full-stack — Flutter mobile UI built to Figma spec, backed by a Django REST API with JWT auth, resource-scoped RBAC, encrypted field storage, and Celery async workers over RabbitMQ. Borrowers move through the full loan lifecycle on this.
-
-**Co-lending Gateway** &nbsp;·&nbsp; *Internal ops portal for loan routing*  
-React 19 + TypeScript (TanStack Query, Zustand, shadcn/ui) on the front, Django + SQLAlchemy on the back — reading live loan data from an external Synoriq PostgreSQL instance and pushing eligible applications to partner lenders. Includes a config-driven field engine where visibility rules, validation, and edit permissions are data, not code.
-
-**Email Intelligence Pipeline** &nbsp;·&nbsp; *Event-driven LLM extraction on AWS*  
-Gmail → HMAC-signed Apps Script → API Gateway → Lambda (FastAPI + Mangum) → AWS Bedrock → Pydantic-validated structured output → downstream Django API. Nonce replay detection, PII scrubbing, DLQ fallback to SNS/S3, and an LLM self-repair loop that re-prompts on schema validation failure.
 
 ---
 
