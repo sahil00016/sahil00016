@@ -1,0 +1,175 @@
+<svg width="680" height="578" viewBox="0 0 680 578" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Courier, monospace">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0d1e36"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0d2543"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="barBlue" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+    <linearGradient id="barGold" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#9e6a03"/>
+      <stop offset="100%" stop-color="#e3b341"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card background with animated border glow -->
+  <rect width="680" height="578" rx="12" fill="url(#bgGrad)" stroke="#58A6FF" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.25;0.7;0.25" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Header -->
+  <path d="M0,12 Q0,0 12,0 H668 Q680,0 680,12 V56 H0 Z" fill="url(#headerGrad)"/>
+
+  <!-- Corner brackets -->
+  <path d="M8,20 L8,8 L20,8"   fill="none" stroke="#58A6FF" stroke-width="1.5" opacity="0.7"/>
+  <path d="M660,8 L672,8 L672,20" fill="none" stroke="#58A6FF" stroke-width="1.5" opacity="0.7"/>
+  <path d="M8,558 L8,570 L20,570"   fill="none" stroke="#58A6FF" stroke-width="1.5" opacity="0.35"/>
+  <path d="M660,570 L672,570 L672,558" fill="none" stroke="#58A6FF" stroke-width="1.5" opacity="0.35"/>
+
+  <!-- Header title -->
+  <text x="340" y="35" text-anchor="middle" font-size="15" font-weight="bold" fill="#58A6FF" letter-spacing="5">[ DEVELOPER PROFILE ]</text>
+
+  <!-- Animated accent line under header -->
+  <line x1="20" y1="56" x2="660" y2="56" stroke-width="1">
+    <animate attributeName="stroke" values="#1e4976;#58A6FF;#1e4976" dur="5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- IDENTITY -->
+  <text x="32" y="82"  font-size="12" fill="#8b949e">NAME</text>
+  <text x="120" y="82"  font-size="12" fill="#1e4976">·····</text>
+  <text x="162" y="82"  font-size="12" fill="#e6edf3" font-weight="bold">Sahil Sonker</text>
+
+  <text x="32" y="106" font-size="12" fill="#8b949e">CLASS</text>
+  <text x="120" y="106" font-size="12" fill="#1e4976">·····</text>
+  <text x="162" y="106" font-size="12" fill="#e6edf3">Full-Stack Engineer  |  Systems Thinker</text>
+
+  <text x="32" y="130" font-size="12" fill="#8b949e">GUILD</text>
+  <text x="120" y="130" font-size="12" fill="#1e4976">·····</text>
+  <text x="162" y="130" font-size="12" fill="#e6edf3">Optimo Capital</text>
+
+  <text x="32" y="154" font-size="12" fill="#8b949e">RANK</text>
+  <text x="120" y="154" font-size="12" fill="#1e4976">·····</text>
+  <text x="162" y="154" font-size="12" fill="#e6edf3">Software Development Engineer  I</text>
+
+  <line x1="20" y1="168" x2="660" y2="168" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ABILITIES -->
+  <text x="32" y="190" font-size="10" fill="#8b949e" letter-spacing="3">ABILITIES</text>
+
+  <!-- Python 90% → 262 -->
+  <text x="32" y="215" font-size="12" fill="#c9d1d9">Python</text>
+  <rect x="158" y="206" width="292" height="10" rx="5" fill="#21262d"/>
+  <rect x="158" y="206" width="0"   height="10" rx="5" fill="url(#barBlue)">
+    <animate attributeName="width" from="0" to="262" dur="0.9s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="462" y="215" font-size="12" fill="#58A6FF">90</text>
+
+  <!-- Django 85% → 248 -->
+  <text x="32" y="237" font-size="12" fill="#c9d1d9">Django</text>
+  <rect x="158" y="228" width="292" height="10" rx="5" fill="#21262d"/>
+  <rect x="158" y="228" width="0"   height="10" rx="5" fill="url(#barBlue)">
+    <animate attributeName="width" from="0" to="248" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="462" y="237" font-size="12" fill="#58A6FF">85</text>
+
+  <!-- FastAPI 80% → 233 -->
+  <text x="32" y="259" font-size="12" fill="#c9d1d9">FastAPI</text>
+  <rect x="158" y="250" width="292" height="10" rx="5" fill="#21262d"/>
+  <rect x="158" y="250" width="0"   height="10" rx="5" fill="url(#barBlue)">
+    <animate attributeName="width" from="0" to="233" dur="0.9s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="462" y="259" font-size="12" fill="#58A6FF">80</text>
+
+  <!-- TypeScript 75% → 219 -->
+  <text x="32" y="281" font-size="12" fill="#c9d1d9">TypeScript</text>
+  <rect x="158" y="272" width="292" height="10" rx="5" fill="#21262d"/>
+  <rect x="158" y="272" width="0"   height="10" rx="5" fill="url(#barBlue)">
+    <animate attributeName="width" from="0" to="219" dur="0.9s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="462" y="281" font-size="12" fill="#58A6FF">75</text>
+
+  <!-- React 75% → 219 -->
+  <text x="32" y="303" font-size="12" fill="#c9d1d9">React</text>
+  <rect x="158" y="294" width="292" height="10" rx="5" fill="#21262d"/>
+  <rect x="158" y="294" width="0"   height="10" rx="5" fill="url(#barBlue)">
+    <animate attributeName="width" from="0" to="219" dur="0.9s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="462" y="303" font-size="12" fill="#58A6FF">75</text>
+
+  <!-- Go 65% → 189 -->
+  <text x="32" y="325" font-size="12" fill="#c9d1d9">Go</text>
+  <rect x="158" y="316" width="292" height="10" rx="5" fill="#21262d"/>
+  <rect x="158" y="316" width="0"   height="10" rx="5" fill="url(#barBlue)">
+    <animate attributeName="width" from="0" to="189" dur="0.9s" begin="0.85s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="462" y="325" font-size="12" fill="#58A6FF">65</text>
+
+  <!-- Flutter 65% → 189 -->
+  <text x="32" y="347" font-size="12" fill="#c9d1d9">Flutter</text>
+  <rect x="158" y="338" width="292" height="10" rx="5" fill="#21262d"/>
+  <rect x="158" y="338" width="0"   height="10" rx="5" fill="url(#barBlue)">
+    <animate attributeName="width" from="0" to="189" dur="0.9s" begin="1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="462" y="347" font-size="12" fill="#58A6FF">65</text>
+
+  <!-- Sys Design 80% → 233 GOLD RARE -->
+  <text x="32" y="369" font-size="12" fill="#e3b341" font-weight="bold">Sys Design</text>
+  <rect x="158" y="360" width="292" height="10" rx="5" fill="#21262d"/>
+  <rect x="158" y="360" width="0"   height="10" rx="5" fill="url(#barGold)">
+    <animate attributeName="width" from="0" to="233" dur="0.9s" begin="1.15s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="462" y="369" font-size="12" fill="#e3b341">80</text>
+  <rect x="480" y="359" width="42" height="14" rx="3" fill="#2d2000"/>
+  <text x="501" y="370" text-anchor="middle" font-size="9" fill="#e3b341" font-weight="bold">RARE</text>
+
+  <line x1="20" y1="384" x2="660" y2="384" stroke="#21262d" stroke-width="1"/>
+
+  <!-- QUESTS -->
+  <text x="32" y="404" font-size="10" fill="#8b949e" letter-spacing="3">COMPLETED QUESTS</text>
+
+  <!-- Quest 1 -->
+  <rect x="32" y="413" width="50" height="16" rx="3" fill="#0d4429"/>
+  <text x="57" y="425" text-anchor="middle" font-size="10" fill="#3fb950" font-weight="bold">DONE</text>
+  <text x="90" y="425" font-size="12" fill="#e6edf3" font-weight="bold">The Borrower's Path</text>
+  <text x="32" y="442" font-size="11" fill="#8b949e">Mobile lending platform  ·  Django + Flutter</text>
+
+  <!-- Quest 2 -->
+  <rect x="32" y="452" width="50" height="16" rx="3" fill="#0d4429"/>
+  <text x="57" y="464" text-anchor="middle" font-size="10" fill="#3fb950" font-weight="bold">DONE</text>
+  <text x="90" y="464" font-size="12" fill="#e6edf3" font-weight="bold">The Co-lending Gateway</text>
+  <text x="32" y="481" font-size="11" fill="#8b949e">Ops portal + partner routing  ·  Django + React 19</text>
+
+  <!-- Quest 3 -->
+  <rect x="32" y="491" width="50" height="16" rx="3" fill="#0d4429"/>
+  <text x="57" y="503" text-anchor="middle" font-size="10" fill="#3fb950" font-weight="bold">DONE</text>
+  <text x="90" y="503" font-size="12" fill="#e6edf3" font-weight="bold">The Email Oracle</text>
+  <text x="32" y="520" font-size="11" fill="#8b949e">LLM email intelligence pipeline  ·  FastAPI + AWS Bedrock</text>
+
+  <!-- Dashed separator -->
+  <line x1="20" y1="532" x2="660" y2="532" stroke="#1e4976" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <!-- Current Quest with pulsing badge -->
+  <rect x="32" y="541" width="82" height="16" rx="3" fill="#2c1600">
+    <animate attributeName="opacity" values="1;0.45;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="73" y="553" text-anchor="middle" font-size="10" fill="#f0883e" font-weight="bold">
+    IN PROGRESS
+    <animate attributeName="opacity" values="1;0.45;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <text x="122" y="553" font-size="12" fill="#f0883e" font-weight="bold">Config-driven dynamic field engine</text>
+
+  <!-- Blinking cursor -->
+  <text x="468" y="553" font-size="12" fill="#f0883e">▌
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite" calcMode="discrete"/>
+  </text>
+
+  <text x="32" y="570" font-size="11" fill="#8b949e">Building for the co-lending ops portal  ·  Django + React 19</text>
+
+</svg>
