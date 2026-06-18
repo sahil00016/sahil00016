@@ -6,12 +6,34 @@
 
 <br/>
 
-Full-stack engineer at a fintech NBFC. I own features from database schema to UI — building borrower apps in Flutter, ops portals in React, and the Django/FastAPI services behind them. I care about how systems are shaped: service boundaries, event-driven flows, failure modes, and the contracts between components.
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sonker-1a5234259/)
+[![Gmail](https://img.shields.io/badge/sahilsonker2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsonker2025@gmail.com)
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sonker-1a5234259/)
-[![Gmail](https://img.shields.io/badge/sahilsonker2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsonker2025@gmail.com)
+```python
+class SahilSonker:
+    role        = "SDE I  ·  Optimo Capital"
+    type        = "Full-Stack Engineer  ·  Systems Thinker"
+
+    languages   = ["Python", "Go", "TypeScript", "Dart"]
+    frameworks  = ["Django", "FastAPI", "React 19", "Flutter"]
+    infra       = ["PostgreSQL", "Redis", "Docker", "AWS Lambda", "RabbitMQ"]
+
+    ships       = [
+        "Borrower-facing mobile lending platform  (Django + Flutter)",
+        "Co-lending ops portal with partner routing  (Django + React 19)",
+        "Event-driven LLM email intelligence pipeline  (FastAPI + AWS Bedrock)",
+    ]
+
+    interests   = ["System design", "Event-driven architecture", "LLMs in production"]
+    currently   = "Building a config-driven dynamic field engine for co-lending ops"
+    ask_me_about = "How three production systems talk to each other"
+```
+
+<div align="center">
 
 </div>
 
